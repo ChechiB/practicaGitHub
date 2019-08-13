@@ -1,5 +1,5 @@
 public class Raiz {
-    public void calcularRaiz(){
-
+    public double calcularRaiz(int a){
+        return Math.sqrt(a);
     }
 }
